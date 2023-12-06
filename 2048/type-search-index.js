@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"phx","l":"Board"},{"p":"phx","l":"GUI2048"},{"p":"phx","l":"Jugador"},{"p":"phx","l":"KeySetting"},{"p":"phx","l":"ScoresFile"},{"p":"phx","l":"Serializacion"},{"p":"phx","l":"Tile"},{"p":"phx","l":"Value"}];updateSearchResults();
